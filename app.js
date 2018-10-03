@@ -1,3 +1,3 @@
 // app.js
-const greeting = require('./greeting');
-greeting('BigBoy');
+const greeting = require('./src/greeting');
+console.log(greeting('BigBoy'));

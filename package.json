@@ -1,0 +1,22 @@
+{
+  "name": "part03",
+  "version": "1.0.0",
+  "description": "jestStart",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallgrimura17/lab08.git"
+  },
+  "author": "Hallgrímur Snær Andrésson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallgrimura17/lab08/issues"
+  },
+  "homepage": "https://github.com/hallgrimura17/lab08#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
