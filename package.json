@@ -5,8 +5,9 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
+    "watch": "jest --watchAll",
     "clean": "rm -rf node_modules",
-    "run": "node app"
+    "run": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "homepage": "https://github.com/hallgrimura17/lab08#readme",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
   }
 }
